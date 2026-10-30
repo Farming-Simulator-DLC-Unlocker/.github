@@ -8,7 +8,7 @@ An all-in-one tool that automatically detects and unlocks DLCs for Farming Simul
 ## 🔗 Latest Release
 
 - **💾 Version 5.0.0.5** – *Tool files & folders*  
-  👉 [The Latest Release]()
+  👉 [The Latest Release](https://github.com/Farming-Simulator-DLC-Unlocker/.github/releases/)
   
 ---
 
